@@ -11,3 +11,4 @@ if (num > 10) {
    printf("Equal to 10");
 }
 }
+//modhu noob 
