@@ -1,0 +1,1 @@
+{"name":"Local: A_Timon_and_Pumbaa","url":"d:\\C codes\\Modules\\Module 6.5\\A_Timon_and_Pumbaa.c","tests":[{"id":1681266468270,"input":"9 1","output":"8"},{"id":1681266474318,"input":"1 9","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C codes\\Modules\\Module 6.5\\A_Timon_and_Pumbaa.c","group":"local","local":true}
