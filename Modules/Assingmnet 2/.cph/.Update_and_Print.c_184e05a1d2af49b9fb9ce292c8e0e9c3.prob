@@ -1,0 +1,1 @@
+{"name":"Local: Update_and_Print","url":"d:\\C codes\\Modules\\Assingmnet 2\\Update_and_Print.c","tests":[{"id":1681448770617,"input":"5\n10 20 30 40 50\n1 100","output":"50 40 30 100 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C codes\\Modules\\Assingmnet 2\\Update_and_Print.c","group":"local","local":true}
