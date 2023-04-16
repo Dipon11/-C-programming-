@@ -1,0 +1,1 @@
+{"name":"Local: twopointerreverse","url":"d:\\C codes\\Modules\\Module 9\\twopointerreverse.c","tests":[{"id":1681644334717,"input":"5\n10 20 30 40 50","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C codes\\Modules\\Module 9\\twopointerreverse.c","group":"local","local":true}

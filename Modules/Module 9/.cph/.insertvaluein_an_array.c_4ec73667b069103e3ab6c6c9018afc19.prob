@@ -1,0 +1,1 @@
+{"name":"Local: insertvaluein_an_array","url":"d:\\C codes\\Modules\\Module 9\\insertvaluein_an_array.c","tests":[{"id":1681639111327,"input":"5\n1 2 3 4 5\n0 100","output":"1 2 3 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C codes\\Modules\\Module 9\\insertvaluein_an_array.c","group":"local","local":true}
