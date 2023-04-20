@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"d:\\C codes\\Modules\\Module 11\\4.Counting_Array.c","tests":[{"id":1682007596768,"input":"13\n5 0 1 4 0 2 3 4 6 5 0 2 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C codes\\Modules\\Module 11\\4.Counting_Array.c","group":"local","local":true}
