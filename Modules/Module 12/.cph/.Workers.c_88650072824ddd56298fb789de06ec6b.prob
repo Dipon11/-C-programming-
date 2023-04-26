@@ -1,0 +1,1 @@
+{"name":"Local: Workers","url":"d:\\C codes\\Modules\\Module 12\\Workers.c","tests":[{"id":1682525244810,"input":"10 5 15","output":"30"},{"id":1682525258942,"input":"4 1 5","output":"20"},{"id":1682525266885,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C codes\\Modules\\Module 12\\Workers.c","group":"local","local":true}
