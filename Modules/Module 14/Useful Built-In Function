@@ -1,0 +1,16 @@
+
+ceil()= returns the nearest integer 
+        greater than the provided argument
+
+floor()=returns the greatest integer that
+        is less than or equal to its argument.
+
+round()=returns the nearest integer value (rounded value) of 
+        the given float, integer, or 
+        double number based on the decimal part of the number
+
+sqrt()=finds the square root 
+
+pow()= find the power 
+
+abs()= makes negetive number into positive 

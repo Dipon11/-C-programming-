@@ -1,0 +1,1 @@
+{"name":"Local: ceil","url":"d:\\C codes\\Modules\\Module 14\\ceil.c","tests":[{"id":1682964439507,"input":"10.222","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C codes\\Modules\\Module 14\\ceil.c","group":"local","local":true}
