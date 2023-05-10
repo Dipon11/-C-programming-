@@ -1,0 +1,1 @@
+{"name":"Local: print_even","url":"d:\\C codes\\Modules\\Module 18.5\\print_even.c","tests":[{"id":1683732276361,"input":"4\n1 4 2 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C codes\\Modules\\Module 18.5\\print_even.c","group":"local","local":true}
