@@ -4,6 +4,7 @@
 int is_palindrome(char *arr) {
     int len = strlen(arr);
     for (int i = 0; i < len / 2; i++) {
+        
         if (arr[i] != arr[len - i - 1]) {
             return 0;
         }
