@@ -4,7 +4,8 @@
         "functional": "c",
         "string.h": "c",
         "PRACTICE_LOOP.C": "cpp",
-        "D_Print_Digits_using_Recursion.C": "cpp"
+        "D_Print_Digits_using_Recursion.C": "cpp",
+        "cmath": "c"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
